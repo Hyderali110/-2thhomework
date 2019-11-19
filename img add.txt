@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>my dish</title>
+</head>
+  <body><h1> HOW TO MAKE TEA</h1>
+    <ul><strong> <li>if your mom is not at home</li>
+      <li> then dont wory we are with you </li></strong></ul>
+    <ol><li> take a cup of milk</li>
+      <li> take two spoon suger</li>
+      <li> then take kettle </li>
+      <li> and mix it </li>
+      <li> then your tea will ready</li>
+    </ol><p1> <cm>so enjoy your tea with hyder ali see you soon byee</cm></p1>
+    <img src="https://imgur.com/ci43jDp.jpg">
+  
+  </body>
+</html>
